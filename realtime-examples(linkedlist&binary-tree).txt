@@ -11,9 +11,6 @@ Utilization: Efficient Storage and Management of Transaction Records
 Linked lists emerge as a versatile data structure ideally suited for the efficient storage and management of transaction records within the banking system. By leveraging linked lists, banks can organize transaction data in a dynamic and accessible manner, facilitating swift retrieval and manipulation of records as needed. Each node in the linked list represents a transaction record, encapsulating essential details such as transaction ID, type, amount, timestamp, and pertinent account information.
 
 
-
-
-
 ********************************************************************************************************************************************************************************************
 File System Organisation (Binary tree)
 

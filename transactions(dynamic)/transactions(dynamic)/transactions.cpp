@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> //Include the iostream library for input/output operations
 using namespace std;
 
 // Node structure for the linked list
